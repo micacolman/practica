@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: rgb(36, 36, 93);
+  font-family: 'Times New Roman', Times, serif;
+  justify-content: center;
+
+}
+
+div {
+  align-items: center;
+}
+
+img {
+  justify-content: center;
+}
+
+header {
+  background-color: rgb(27, 27, 93);
+  color: white;
+}
+
+ul {
+  color: gold;
+  text-align: center;
+}
